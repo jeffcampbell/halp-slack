@@ -8,6 +8,7 @@ Powered by the [Stack Exchange API](https://api.stackexchange.com/)
 ### What you will need
 * A [Heroku](http://www.heroku.com) account
 * An [outgoing webhook token](https://api.slack.com/outgoing-webhooks) for your Slack team
+* A [Slack API token](https://api.slack.com/tokens) for your Slack team
 
 ### Setup
 * Clone this repository locally
@@ -17,7 +18,7 @@ Powered by the [Stack Exchange API](https://api.stackexchange.com/)
   * ```OUTGOING_WEBHOOK_TOKEN``` The token for your outgoing webhook integration in Slack
   * ```BOT_USERNAME``` The name the bot will use when posting to Slack
   * ```BOT_ICON``` The emoji icon for the bot (I used the tophat emoji)
-  * ```SLACK_CHANNEL``` The ID for the slack channel where Halp will live 
+  * ```SLACK_CHANNEL``` The [ID](https://api.slack.com/methods/channels.list) for the slack channel where Halp will live 
   * ```SLACK_API_TOKEN``` A personal API token with access to the slack channel
   * ```STACK_EXCHANGE_SITE``` The site parameter (typically ```stackoverflow```)
 
