@@ -1,5 +1,5 @@
 # halp-slack
-Get Stack Exchange answers in Slack
+Get Stack Overflow answers in Slack
 
 ![example image 1](http://i.imgur.com/Tvhnsxk.png)
 
