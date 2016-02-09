@@ -2,6 +2,7 @@
 Get Stack Exchange answers in Slack
 
 ![example image 1](http://i.imgur.com/Tvhnsxk.png)
+
 Powered by the [Stack Exchange API](https://api.stackexchange.com/)
 
 ### What you will need
